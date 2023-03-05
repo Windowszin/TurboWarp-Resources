@@ -1,0 +1,12 @@
+{
+   "headers":{
+      "h1":"Test",
+      "h3":"Lol.",
+      "PageHueSteps":"10"
+   },
+   "body":{
+      "pageContent":{
+         "text":"Hi! This is a test webpage! Here you can access via my new TurboWarp-based browser!"
+      }
+   }
+}
