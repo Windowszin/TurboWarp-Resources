@@ -1,0 +1,15 @@
+{
+   "headers":{
+      "h1":"the quick brown fox jumps over the lazy dog",
+      "h3":"Lol.",
+      "PageHueSteps":"10",
+      "rules":{
+        "TranslateTo":"{ActualLang}"
+     }
+   },
+   "body":{
+      "pageContent":{
+         "text":"Hi! This is a test webpage! Here you can access via my new TurboWarp-based browser!"
+      }
+   }
+}
